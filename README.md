@@ -18,6 +18,8 @@ Hey ! I am Yannick Zahinda 👋
 ### React, 
 ### Reduce 
 
+[![Yannick's GitHub stats](https://github-readme-stats.vercel.app/api?username=YannickZahinda)](https://github.com/anuraghazra/github-readme-stats)
+
 Credit : [Yannick Zahinda]()
 
 <!--
