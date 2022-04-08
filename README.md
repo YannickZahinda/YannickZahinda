@@ -26,7 +26,10 @@ Hey ! I am Yannick Zahinda 👋
 
 <img width="900" alt="Screen Shot 2022-04-08 at 15 51 26" src="https://user-images.githubusercontent.com/91213045/162451210-d3b3a656-8aff-487e-a874-04521ff36e67.png">
 
-Credit : [Yannick Zahinda]()
+[see the live demo of the project]( https://yannickzahinda.github.io/To-do-list/) ⬇️
+
+[access to github repo](https://github.com/To-do-list/) 
+- Credit : [Yannick Zahinda]()
 
 <!--
 **YannickZahinda/YannickZahinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
