@@ -1,6 +1,10 @@
 Hey ! I am Yannick Zahinda 👋
 
-- 🔭 I’m currently studying at Microverse Fulltime program
+# A passionate FullStack Software Engineer !
+
+Open to work 😀
+
+- 🔭 I’m currently learning Javascript, React, Ruby, Ruby on Rails at Microverse Fulltime program
 - 🌱 I’m currently learning Javascript
 - 💬 Ask me about Litterature
 - 😄 Pronouns:I, you, he, it, they, this
