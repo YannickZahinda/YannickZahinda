@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Yannick Zahinda</h1>
+<h1 align="center"><img src="https://avatars.githubusercontent.com/u/91213045?v=4" height="300" width="300"/><hr> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Yannick Zahinda</h1>
 <h3 align="center">A passionate FullStack Software developer !!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yannickzahinda&label=Profile%20views&color=0e75b6&style=flat" alt="yannickzahinda" /> </p>
