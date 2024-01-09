@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/zahinday" target="blank"><img src="https://img.shields.io/twitter/follow/zahinday?logo=twitter&style=for-the-badge" alt="zahinday" /></a> </p>
 
-- 🔭 I’m currently learning **Javascript, React, Ruby, Ruby on Rails at Microverse Fulltime program**
+- 🔭 I have knowledge in **Javascript, React, Ruby, Ruby on Rails and and Nodejs**
 
 - 👨‍💻 All of my projects are available at [https://yannickzahinda.github.io/My-Portfolio-design/](https://yannickzahinda.github.io/My-Portfolio-design/)
 
