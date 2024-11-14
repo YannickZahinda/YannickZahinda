@@ -7,8 +7,6 @@
 
 - 🔭 I have knowledge in **Javascript, React, Ruby, Ruby on Rails and and Nodejs**
 
-- 👨‍💻 All of my projects are available at [https://yannickzahinda.github.io/My-Portfolio-design/](https://yannickzahinda.github.io/My-Portfolio-design/)
-
 - 💬 Ask me about **SASS,Litterature**
 
 - 📫 How to reach me **ymulikuza@gmail.com**
